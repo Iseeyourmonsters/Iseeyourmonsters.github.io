@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Iseeyourmonsters's Personal Website" # site title that appears in the masthead and browser tab
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Iseeyourmonsters"
@@ -115,13 +115,16 @@ analytics:
 author:
   name             : "Iseeyourmonsters"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm an undergraduate Computer Science student from SUSTech."
-  location         : "SUSTech, Shenzhen, China"
-  email            : 12210730@mail.sustech.edu.cn
+  bio              : "I'm currently a 3th year undergraduate student."
+  location         : "Shenzhen, China"
+  email            : "12210730@mail.sustech.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "12210730@mail.sustech.edu.cn"
+    - label: "SUSTech" # 新增标签
+      icon: "fas fa-fw fa-graduation-cap" # 或者 "fas fa-fw fa-graduation-cap", "fas fa-fw fa-globe" 等
+      url: "https://www.sustech.edu.cn/" # 你的链接
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +136,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Iseeyourmonsters"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
